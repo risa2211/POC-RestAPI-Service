@@ -25,3 +25,7 @@
 * Automated testing using CI/CD 
 * Proper montoring metrics using tools like grafana, telemetry, loki
 
+## Load Testing
+
+<img width="1893" height="612" alt="image" src="https://github.com/user-attachments/assets/a0ac7146-67c9-4cbb-8522-84ac519d691b" />
+
